@@ -25,8 +25,6 @@ npm install --unsafe-perm -g sqlite3
 
 
 
-http://localhost:3000/flavio/photos
-
 
 
 
